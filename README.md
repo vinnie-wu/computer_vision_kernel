@@ -1,3 +1,6 @@
+# Project: Computer Vision Kernel
+Kernel written fully in Python (with NumPy & SciPy libraries). This is a project based in Signals and Processing Course (ELEC 221) in UBC, Vancouver. See ***project-doc.pdf*** for the framework of this project. Aim of the project is to use Fast Fourier Transform (FFT) to determine the direction of video sweep for a sample GIF file.
+
 ## Installing Required Libraries
 
 To install the NumPy, SciPy and Imageio libraries you can run `python -m pip install numpy scipy imageio`
